@@ -1,0 +1,91 @@
+Create a modern mobile-first social media application UI designed for a Muslim community platform.
+
+Design goals:
+
+* extremely clean and minimal interface
+* better visual clarity than typical social media apps
+* mobile-first layout
+* optimized for scrolling content and short videos
+* both light mode and dark mode
+* smooth modern animations and micro-interactions
+* consistent reusable component system
+
+Style inspiration:
+Apple, Linear, Notion, and modern Instagram UI.
+
+Use:
+
+* rounded cards
+* soft shadows
+* subtle glass or blur effects
+* large media content
+* minimal icons
+* clear typography
+* lots of spacing for readability
+
+Color system:
+Primary: emerald green
+Accent: soft gold
+Backgrounds: light neutral and deep dark mode
+Ensure both light and dark mode versions of the interface exist.
+
+Core UI screens to generate:
+
+1. Login / Signup screen
+   Clean onboarding with profile image upload and username creation.
+
+2. Home Feed
+   A vertical scrolling feed showing posts with:
+
+* user avatar
+* username
+* large image or video
+* caption
+* like, comment, and share buttons
+* clean spacing
+  Focus heavily on media and readability.
+
+3. Reels / Short Video Viewer
+   Full-screen vertical video player similar to TikTok or Instagram reels.
+   Overlay UI with:
+
+* like
+* comment
+* share
+* username and caption
+
+4. Explore / Discover page
+   Grid layout showing:
+
+* trending videos
+* Islamic reminders
+* creators
+* recommended content
+
+5. Progress / Spiritual Tracker page
+   A visually pleasing dashboard showing:
+
+* daily prayer completion
+* prayer streak
+* Quran reading progress
+  Use circular progress indicators and minimalist cards.
+
+6. Profile Page
+   Modern profile layout with:
+
+* avatar
+* bio
+* follower counts
+* grid of posts
+* progress badges or streak display
+
+Navigation:
+Bottom navigation bar with five tabs:
+Home
+Explore
+Create
+Progress
+Profile
+
+Design the UI so it feels premium, modern, and calming, avoiding clutter.
+Make it feel more thoughtful and focused than typical social media platforms.
